@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Jomolhari;
+    src: url("Jomolhari.eot")
+    }
+@font-face {
+    font-family: Jomolhari;
+    src: ("Jomolhari.ttf")
+}
+body {
+    text-align: left;
+    }
+.bodyig {
+    font-family: "Tibetan Machine Uni", "Microsoft Himalaya", Kailasa, Jomolhari;
+    line-height: 200%;
+    font-size: 1.5em;
+    }
+.wylie {
+    line-height: 150%;
+    font-size: 1em;
+    }
+.english {
+    line-height: 150%;
+    font-size: 1em;
+}
