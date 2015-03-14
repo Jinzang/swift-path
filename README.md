@@ -1,8 +1,8 @@
 The Swift Path
 ==============
 
-This repository contains a partial transcription and translation of a collection
-of quotes compiled by Lama Phurbu Tashi while doing the traditional three year
+This repository contains a transcription and translation of a collection of
+quotes compiled by Lama Phurbu Tashi while doing the traditional three year
 retreat in India. The quotes are formatted as html and are structured as a web
 site with minimal formatting. The page names match the numbering of the pages in
 the original notebook. The letter a indicates the first quote starting on that
