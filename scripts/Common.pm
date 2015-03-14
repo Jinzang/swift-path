@@ -9,18 +9,8 @@ use IO::File;
 require Exporter;
 
 our @ISA = qw(Exporter);
-our @EXPORT = qw(get_paragraph read_file read_paragraph update_file visitor
+our @EXPORT = qw(read_file read_paragraph update_file visitor
                  write_file write_paragraph);
-
-#----------------------------------------------------------------------
-# Get a paragraph
-
-sub get_paragraph {
-    my ($text, $name) = @_;
-
-    my ($para) = $text =~ /(<p class="$name">.*?<\/p>)/sm;
-    return $para;
-}
 
 #----------------------------------------------------------------------
 # Read a file
